@@ -1,0 +1,17 @@
+season,league,team,player,position,age,matches,minutes,goals,assists,shots,passes_completed,passes_attempted,pass_accuracy
+2023/24,EPL,Manchester City,Erling Haaland,ST,24,26,2340,7,4,41,1578,1984,79.5
+2023/24,EPL,Manchester City,Kevin De Bruyne,AM,33,25,1875,6,4,26,670,820,81.7
+2023/24,EPL,Arsenal,Bukayo Saka,RW,23,21,1890,4,4,34,1485,1825,81.4
+2023/24,EPL,Arsenal,Martin Ødegaard,AM,26,25,2000,8,9,71,650,864,75.2
+2023/24,EPL,Liverpool,Mohamed Salah,RW,33,28,2520,5,8,59,753,898,83.9
+2023/24,EPL,Liverpool,Darwin Núñez,ST,26,25,2125,7,4,69,1137,1363,83.4
+2023/24,EPL,Tottenham,Heung-min Son,LW,33,23,1840,9,3,32,758,989,76.6
+2023/24,EPL,Tottenham,James Maddison,AM,29,28,2380,6,6,70,1109,1241,89.4
+2023/24,EPL,Chelsea,Cole Palmer,AM,23,33,2805,6,6,25,807,1002,80.5
+2023/24,EPL,Chelsea,Nicolas Jackson,ST,24,20,1700,10,4,64,1399,1728,81.0
+2023/24,EPL,Manchester United,Bruno Fernandes,AM,31,26,2080,10,9,61,1088,1427,76.2
+2023/24,EPL,Manchester United,Marcus Rashford,LW,28,27,2430,5,6,41,1392,1615,86.2
+2023/24,EPL,Newcastle United,Alexander Isak,ST,26,27,2295,12,6,71,854,957,89.2
+2023/24,EPL,Newcastle United,Anthony Gordon,LW,24,24,1920,7,6,62,1135,1485,76.4
+2023/24,EPL,Brighton,Evan Ferguson,ST,21,34,2720,9,7,75,1447,1720,84.1
+2023/24,EPL,Brighton,Kaoru Mitoma,LW,28,31,2480,3,3,49,1332,1633,81.6
